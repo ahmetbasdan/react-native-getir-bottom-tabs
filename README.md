@@ -6,7 +6,8 @@ React-Native clone of the Getir Bottom Tabs
 
 ### Versioning
 
-For React Native 0.45.1
+For React Native 0.70.5
+For Expo 47.0.0
 
 ### Installation
 
